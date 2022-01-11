@@ -19,8 +19,10 @@ nav {
 }
 
 .home {
-  background-image: url(img/image-1.jpg);
-  height: 800px;
+  /* background-image: url(img/image-1.jpg); */
+  background-image: url(img/restaurant-image-2.jpg);
+  background-size: cover;
+  height: 821px;
   color: white;
   background-attachment: fixed;
 }
