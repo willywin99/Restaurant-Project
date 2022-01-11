@@ -12,3 +12,19 @@
 nav {
   box-shadow: 2px 2px 0px 5px rgba(0, 0, 0, 0.288);
 }
+
+#head1 {
+  font-size: 65px;
+  margin-top: 5em;
+}
+
+.home {
+  background-image: url(img/image-1.jpg);
+  height: 800px;
+  color: white;
+  background-attachment: fixed;
+}
+
+#header {
+  padding-top: 20em;
+}
