@@ -1,0 +1,14 @@
+.nav-link {
+  text-transform: uppercase;
+  transition: all .4s;
+}
+
+.nav-link:hover {
+  border-bottom: 2px solid green;
+  padding: 30px;
+  transition: all .4s;
+}
+
+nav {
+  box-shadow: 2px 2px 0px 5px rgba(0, 0, 0, 0.288);
+}
